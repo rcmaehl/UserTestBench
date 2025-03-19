@@ -7,3 +7,38 @@
 
 # UserTestBench
 An open-source alternative to UserBenchMark.  Leveraging existing opensource tools such as Phoronix and OpenBenchmarking into a unified application.
+
+## Download
+
+[Download latest stable release](https://github.com/rcmaehl/UserTestBench/releases/latest/download/UserTestBench.exe)
+
+[Download latest testing release](https://nightly.link/rcmaehl/UserTestBench/workflows/UTB/main/UTB.zip)\
+**Keep in mind that you will have to update testing releases manually**
+
+## System Requirements
+ |Minimum Requirements*|Recommended
+----|----|----
+OS|Windows 8.1|Latest Windows 10 Build
+CPU|32-bit Single Core|64-bit Dual Core or Higher
+RAM (Memory)|-|-
+Disk (Storage)|-|-
+||
+
+## Compiling
+
+1. Download and run "AutoIt Full Installation" from [official website](https://www.autoitscript.com/site/autoit/downloads). 
+1. Get the source code either by [downloading zip](https://github.com/rcmaehl/UserTestBench/archive/main.zip) or do `git clone https://github.com/rcmaehl/UserTestBench`.
+1. Right click on `UserTestBench.au3` in the UserTestBench directory and select "Compile Script (x64) (or x86 if you have 32 bit Windows install).
+1. This will create UserTestBench.exe in the same directory.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for rules of coding and pull requests.
+
+If you want to help with translations check [translating guidelines](Langs/0000-translating-guidelines.md).
+
+## License
+
+UserTestBench is free and open source software, it is using the LGPL-3.0 license.
+
+See [LICENSE](LICENSE) for the full license text.
