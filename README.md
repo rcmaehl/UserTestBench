@@ -18,7 +18,7 @@ An open-source alternative to UserBenchMark.  Leveraging existing opensource too
 ## System Requirements
  |Minimum Requirements*|Recommended
 ----|----|----
-OS|Windows 8.1|Latest Windows 10 Build
+OS|Windows 8.1|Latest Windows 11 Build
 CPU|32-bit Single Core|64-bit Dual Core or Higher
 RAM (Memory)|-|-
 Disk (Storage)|-|-
